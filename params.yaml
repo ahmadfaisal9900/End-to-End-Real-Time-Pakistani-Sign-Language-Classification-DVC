@@ -2,7 +2,7 @@
 paths:
   dataset_dir: "E:\\Projects\\Sign Language\\PkSLMNM"
   output_dir: "E:\\Projects\\Sign Language\\PkSLMNM_Frames"
-  model_output_dir: "E:\\Projects\\Sign Language\\PkSLMNM_Model"
+  model_output_dir: "E:\\Projects\\Finished\\Sign Language MLOps\\research\\PkSLMNM_Model"
 
 # Video processing parameters
 video_processing:
